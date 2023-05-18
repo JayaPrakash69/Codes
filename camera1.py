@@ -1,7 +1,7 @@
 import cv2
 
 # Create a video capture object for the camera
-vid = cv2.VideoCapture(1)
+vid = cv2.VideoCapture(0)
 
 # Loop until the user presses 'q' key
 while(True):
